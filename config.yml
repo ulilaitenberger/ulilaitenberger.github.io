@@ -4,6 +4,25 @@ title: "Ulrich Laitenberger"
 paginate: 20
 theme: "PaperMod"
 
+menu:
+  main:
+    - name: Publications
+      url: papers/
+      weight: 1
+    - name: Research
+      url: research/
+      weight: 2
+    - name: Teaching
+      url: teaching/
+      weight: 3
+    - name: Talks
+      url: talks/
+      weight: 4
+    - name: Expertises
+      url: expertises/
+      weight: 5
+
+
 params:
   author: "Ulrich Laitenberger"
   description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platforms and competition policy."
@@ -71,23 +90,6 @@ params:
     - name: SSRN
       url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1655010
 
-menu:
-  main:
-    - name: Publications
-      url: papers/
-      weight: 1
-    - name: Research
-      url: research/
-      weight: 2
-    - name: Teaching
-      url: teaching/
-      weight: 3
-    - name: Talks
-      url: talks/
-      weight: 4
-    - name: Expertises
-      url: expertises/
-      weight: 5
 
 markup:
   goldmark:
