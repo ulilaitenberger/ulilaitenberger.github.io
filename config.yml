@@ -6,7 +6,7 @@ theme: "PaperMod"
 
 params:
   author: "Ulrich Laitenberger"
-  description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platforms, competition policy, and recommendation systems."
+  description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platforms and competition policy."
   DateFormat: "January 2006"
   ShowShareButtons: false
   ShowReadingTime: false
