@@ -67,7 +67,7 @@ footer{max-width:1080px;margin:0 auto;padding:2rem;border-top:1px solid var(--ru
 /* RESPONSIVE */
 @media(max-width:768px){
   .hero{grid-template-columns:1fr;gap:2rem;padding-top:90px}
-  .hero-photo{width:180px;height:220px;order:-1}
+  .hero-photo{width:150px;height:120px;order:-1}
   .hero-text h1{font-size:2rem}
   .nav-links{display:none;position:absolute;top:60px;left:0;right:0;background:var(--cream);flex-direction:column;padding:1rem 2rem;gap:1rem;border-bottom:1px solid var(--rule)}
   .nav-links.open{display:flex}.hamburger{display:block}
