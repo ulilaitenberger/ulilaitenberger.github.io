@@ -1,4 +1,4 @@
-baseURL: "https://ulrich-laitenberger.com/"
+baseURL: "https://ulilaitenberger.github.io"
 languageCode: "en"
 title: "Ulrich Laitenberger"
 paginate: 20
@@ -66,7 +66,7 @@ params:
       url: https://www.linkedin.com/in/ulrich-laitenberger-7972b9102/
     - name: Twitter
       url: https://twitter.com/ulaitenberger
-    - name: GitHub
+    - name: ORCID
       url: https://orcid.org/0000-0002-7009-0190
     - name: SSRN
       url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1655010
