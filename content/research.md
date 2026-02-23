@@ -1,7 +1,7 @@
 ---
-title: "Current Research"
-description: "Working papers and ongoing research by Ulrich Laitenberger."
-url: /research/
+title: "research"
+headless: false
+---
 ---
 
 ## Working Papers Under Review

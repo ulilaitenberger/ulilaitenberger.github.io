@@ -1,97 +1,78 @@
-baseURL: "https://ulilaitenberger.github.io"
+baseURL: "https://ulrich-laitenberger.com/"
 languageCode: "en"
 title: "Ulrich Laitenberger"
-paginate: 20
-theme: "PaperMod"
-
-menu:
-  main:
-    - name: Publications
-      url: papers/
-      weight: 1
-    - name: Research
-      url: research/
-      weight: 2
-    - name: Teaching
-      url: teaching/
-      weight: 3
-    - name: Talks
-      url: talks/
-      weight: 4
-    - name: Expertises
-      url: expertises/
-      weight: 5
-
-
-params:
-  author: "Ulrich Laitenberger"
-  description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platforms and competition policy."
-  DateFormat: "January 2006"
-  ShowShareButtons: false
-  ShowReadingTime: false
-  ShowBreadCrumbs: false
-  ShowPostNavLinks: false
-  ShowWordCount: false
-  ShowRssButtonInSectionTermList: false
-  ShowAllPagesInArchive: true
-  MainSections: ["papers","teaching","talks","expertises"]
-  hideFooter: false
-
-  profileMode:
-    enabled: true
-    title: "Ulrich Laitenberger"
-    subtitle: >
-      I am an Associate Professor at [Tilburg University](https://www.tilburguniversity.edu/staff/u-m-laitenberger),
-      and Academic Lead of the Information Systems section. I received my PhD in Business Economics from KU Leuven in 2015.
-
-
-      I conduct empirical research at the intersection of economics and information systems.
-      My research interests include studying how digital markets and platforms operate and how
-      competition between and on them takes place. Examples of topics I have looked at include
-      the potential biases in recommendation systems, online labor platforms, and reputation mechanisms.
-
-
-      I have published papers in journals such as *MIS Quarterly*, *Quantitative Marketing and Economics*,
-      *Marketing Science*, *American Economic Journal: Microeconomics*, and the *Journal of Industrial Economics*.
-
-
-      **Other affiliations:** Research affiliate at [CESifo](https://www.cesifo.org/en/network-member/laitenberger-ulrich) ·
-      Research associate at [ZEW Mannheim](https://www.zew.de/en/team/ula) ·
-      [Visiting Professor](https://www.telecom-paris.fr/ulrich-laitenberger) at [Telecom Paris](https://www.telecom-paris.fr/), [Institut Polytechnique](https://www.ip-paris.fr/)
-    imageUrl: "picture.jpeg"
-    imageTitle: "Ulrich Laitenberger"
-    imageWidth: 180
-    imageHeight: 180
-    buttons:
-      - name: Publications
-        url: papers/
-      - name: Research
-        url: research/
-      - name: Teaching
-        url: teaching/
-      - name: Talks
-        url: talks/
-      - name: Expertises
-        url: expertises/
-
-  socialIcons:
-    - name: CV
-      url: cv.pdf
-    - name: Email
-      url: mailto:laitenberger@enst.fr
-    - name: Google Scholar
-      url: https://scholar.google.de/citations?user=avv8nJMAAAAJ
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/ulrich-laitenberger-7972b9102/
-    - name: Twitter
-      url: https://twitter.com/ulaitenberger
-    - name: ORCID
-      url: https://orcid.org/0000-0002-7009-0190
-    - name: SSRN
-      url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1655010
-
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platforms, competition policy, and recommendation systems."
+  author: "Ulrich Laitenberger"
+  subtitle: "Associate Professor of Information Systems · Tilburg University"
+  photo: "unnamed.jpg"
+
+  bio: |
+    I am an Associate Professor at Tilburg University, and Academic Lead of the Information Systems section.
+    I received my PhD in Business Economics from KU Leuven in 2015.
+
+    I conduct empirical research at the intersection of economics and information systems.
+    My research interests include studying how digital markets and platforms operate and how
+    competition between and on them takes place. Examples of topics I have looked at include
+    the potential biases in recommendation systems, online labor platforms, and reputation mechanisms.
+    I have published papers on these topics in journals such as the *Management Information Systems Quarterly*,
+    *Quantitative Marketing and Economics*, and *Marketing Science*.
+
+    In addition to my current work in these areas, I have also conducted research on competition policy,
+    specifically examining the effects of minority share acquisitions on competition and the factors
+    that influence cartel stability and collapse. I have published papers on these topics in academic
+    journals such as the *American Economic Journal: Microeconomics* and the *Journal of Industrial Economics*.
+
+  socialLinks:
+    - name: E-Mail
+      url: "mailto:laitenberger@enst.fr"
+      icon: email
+    - name: Faculty Website
+      url: "https://www.tilburguniversity.edu/staff/u-m-laitenberger"
+      icon: faculty
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/ulrich-laitenberger-7972b9102/"
+      icon: linkedin
+    - name: Twitter
+      url: "https://twitter.com/ulaitenberger"
+      icon: twitter
+    - name: Google Scholar
+      url: "https://scholar.google.de/citations?user=avv8nJMAAAAJ"
+      icon: scholar
+    - name: ORCID
+      url: "https://orcid.org/0000-0002-7009-0190"
+      icon: orcid
+    - name: SSRN
+      url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1655010"
+      icon: ssrn
+    - name: CV
+      url: "cv.pdf"
+      icon: cv
+
+  affiliations:
+    - text: "Research affiliate, [CESifo Network](https://www.cesifo.org/en/network-member/laitenberger-ulrich)"
+    - text: "Research associate, [ZEW Mannheim, Digital Economy](https://www.zew.de/en/team/ula)"
+    - text: "[Visiting Professor](https://www.telecom-paris.fr/ulrich-laitenberger) at [Telecom Paris](https://www.telecom-paris.fr/), [Institut Polytechnique](https://www.ip-paris.fr/)"
+
+  sections:
+    - name: Publications
+      id: publications
+      file: publications
+    - name: Research
+      id: research
+      file: research
+    - name: Teaching
+      id: teaching
+      file: teaching
+    - name: Talks
+      id: talks
+      file: talks
+    - name: Expertises
+      id: expertises
+      file: expertises

@@ -1,55 +1,31 @@
 # Academic Website — Ulrich Laitenberger
 
-Built with [Hugo](https://gohugo.io/) using Pascal Michaillat's [minimalist academic template](https://github.com/pmichaillat/hugo-website) (PaperMod theme).
+Custom Hugo site with the same editorial design (Newsreader + DM Sans typography, cream/ink color scheme) but fully editable via Markdown.
 
-## Quick Start (one-time setup)
+## Setup (one time)
 
 ### 1. Install Hugo
 
-**Mac:**
 ```bash
+# Mac
 brew install hugo
-```
 
-**Windows:**
-```bash
+# Windows
 choco install hugo-extended
-```
 
-**Linux:**
-```bash
+# Linux
 snap install hugo
 ```
 
-Verify: `hugo version` (needs v0.147+)
+### 2. Create GitHub repository
 
-### 2. Create your repository
+Create a new repository on GitHub (e.g., `ulrich-laitenberger.github.io`), clone it, and copy all files from this package into it.
 
-1. Go to https://github.com/pmichaillat/hugo-website
-2. Click **"Use this template" → "Create a new repository"**
-3. Name it `ulrich-laitenberger.github.io` (or any name)
-4. Clone it to your machine:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
+### 3. Add your files
 
-### 3. Replace content with your files
-
-Copy the files from this package into your cloned repo, replacing the template's defaults:
-
-```
-config.yml              → replace the template's config.yml
-content/papers/_index.md    → replace content/papers/_index.md  
-content/research.md         → add to content/
-content/teaching/_index.md  → replace or create content/teaching/_index.md
-content/talks/_index.md     → replace or create content/talks/_index.md
-content/expertises/_index.md → replace or create content/expertises/_index.md
-```
-
-Also:
-- Put your photo as `static/picture.jpeg`
+- Put your photo as `static/unnamed.jpg`
 - Put your CV as `static/cv.pdf`
+- (Optional) add a favicon as `static/favicon.ico`
 
 ### 4. Preview locally
 
@@ -57,7 +33,7 @@ Also:
 hugo server
 ```
 
-Open http://localhost:1313 — the site auto-refreshes as you edit.
+Open http://localhost:1313
 
 ### 5. Deploy
 
@@ -67,55 +43,66 @@ git commit -m "Initial site"
 git push
 ```
 
-Go to GitHub → Settings → Pages → Source: **GitHub Actions**.
-GitHub will auto-build and deploy your site.
-
-### 6. Custom domain (optional)
-
-In GitHub: Settings → Pages → Custom domain → `ulrich-laitenberger.com`
-
-At your domain registrar, create DNS records:
-- **A records:** `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
-- **CNAME:** `www` → `YOUR_USERNAME.github.io`
+Then go to GitHub → Settings → Pages → Source: **GitHub Actions**.
 
 ---
 
 ## Day-to-day workflow
 
-Your entire workflow for updating the site:
-
-1. **Edit a Markdown file** (e.g., `content/papers/_index.md`)
-2. **Preview:** `hugo server` → check at localhost:1313
-3. **Push:** `git add . && git commit -m "update" && git push`
-4. **Done.** GitHub Actions builds and deploys automatically.
-
-No HTML editing. No build tools. Just Markdown + git push.
+```
+1. Edit a .md file in content/
+2. Preview: hugo server
+3. Push: git add . && git commit -m "update" && git push
+4. Done — GitHub builds and deploys automatically
+```
 
 ---
 
 ## File structure
 
 ```
-config.yml                   ← Site configuration (title, menu, social links)
+config.yml                ← Title, bio, social links, affiliations, nav menu
 content/
-  papers/_index.md           ← Publications (all 3 categories)
-  research.md                ← Working papers, WIP, PhD supervision
-  teaching/_index.md         ← All teaching across institutions
-  talks/_index.md            ← Conference talks by year
-  expertises/_index.md       ← Policy reports
+  _index.md               ← Homepage (mostly empty, content comes from config + sections)
+  publications.md          ← All publications (3 categories)
+  research.md              ← Working papers, WIP, PhD supervision
+  teaching.md              ← Courses by institution
+  talks.md                 ← Talks by year
+  expertises.md            ← Policy reports
+layouts/                   ← HTML templates (you shouldn't need to touch these)
+assets/css/style.css       ← Styling (edit to change colors/fonts)
 static/
-  picture.jpeg               ← Your profile photo
-  cv.pdf                     ← Your CV (linked from homepage)
+  unnamed.jpg              ← Your profile photo
+  cv.pdf                   ← Your CV
+.github/workflows/hugo.yml ← Auto-deploy config
 ```
 
-## Adding new content
+## How to edit content
 
-**New publication?** Edit `content/papers/_index.md`, add a new entry in the relevant section.
+All content is in **plain Markdown** in the `content/` folder. Examples:
 
-**New talk?** Edit `content/talks/_index.md`, add a bullet point under the right year.
+**Add a new publication:** open `content/publications.md`, add:
+```markdown
+---
 
-**New working paper?** Edit `content/research.md`, add under "Working Papers Under Review."
+**[Paper Title](https://doi.org/...)**
+*Journal Name*, 2026. With Coauthor Name.
+[[WP](https://link)] [[Slides](https://link)]
+```
 
-**New course?** Edit `content/teaching/_index.md`, add a row to the relevant table.
+**Add a new talk:** open `content/talks.md`, add a bullet under the year:
+```markdown
+- June 5: [Conference Name](https://link), City
+```
 
-Everything is plain Markdown — no templates, no front-matter juggling, no YAML arrays.
+**Add a new working paper:** open `content/research.md`, add:
+```markdown
+---
+
+**Paper Title**
+With [Coauthor](https://link). Month 2026. Under Review.
+```
+
+**Update your bio:** edit the `bio` field in `config.yml`.
+
+**Change colors:** edit `assets/css/style.css`, modify the `:root` variables.
