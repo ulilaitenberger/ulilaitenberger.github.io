@@ -1,0 +1,13 @@
+<nav id="nav">
+  <div class="nav-inner">
+    <a href="{{ .Site.BaseURL }}" class="nav-name">{{ .Site.Title }}</a>
+    <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links">
+      {{ range .Site.Params.sections }}
+      <li><a href="#{{ .id }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>

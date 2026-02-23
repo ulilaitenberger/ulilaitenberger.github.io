@@ -1,0 +1,30 @@
+<header class="hero">
+  <div class="hero-text">
+    <h1>{{ .Site.Title }}</h1>
+    <div class="hero-title-line">{{ .Site.Params.subtitle }}</div>
+    <div class="hero-bio">
+      {{ .Site.Params.bio | markdownify }}
+    </div>
+
+    <div class="social-row">
+      {{ range .Site.Params.socialLinks }}
+      <a href="{{ .url }}" {{ if not (hasPrefix .url "mailto:") }}target="_blank" rel="noopener"{{ end }}>
+        {{ partial "icon.html" (dict "icon" .icon) }}
+        {{ .name }}
+      </a>
+      {{ end }}
+    </div>
+
+    {{ with .Site.Params.affiliations }}
+    <div class="affiliations">
+      <h3>Other Affiliations</h3>
+      <ul>
+        {{ range . }}
+        <li>{{ .text | markdownify }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+  <img class="hero-photo" src="{{ .Site.Params.photo | relURL }}" alt="{{ .Site.Title }}">
+</header>
