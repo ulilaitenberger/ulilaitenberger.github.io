@@ -1,6 +1,5 @@
 ---
-title: "teaching"
-headless: false
+title: "Teaching"
 ---
 ---
 

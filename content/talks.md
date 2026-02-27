@@ -1,6 +1,5 @@
 ---
-title: "talks"
-headless: false
+title: "Talks"
 ---
 ---
 

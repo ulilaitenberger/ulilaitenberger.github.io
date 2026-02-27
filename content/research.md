@@ -1,6 +1,5 @@
 ---
-title: "research"
-headless: false
+title: "Research"
 ---
 ---
 

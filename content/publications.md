@@ -1,6 +1,5 @@
 ---
-title: "publications"
-headless: false
+title: "Publications"
 ---
 ---
 

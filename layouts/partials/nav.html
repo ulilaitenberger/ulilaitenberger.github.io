@@ -6,7 +6,7 @@
     </button>
     <ul class="nav-links">
       {{ range .Site.Params.sections }}
-      <li><a href="#{{ .id }}">{{ .name }}</a></li>
+      <li><a href="/{{ .id }}/"{{ if eq $.RelPermalink (printf "/%s/" .id) }} class="active"{{ end }}>{{ .name }}</a></li>
       {{ end }}
     </ul>
   </div>

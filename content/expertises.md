@@ -1,6 +1,6 @@
 ---
-title: "policy-work"
-headless: false
+title: "Policy Work"
+url: "/policy-work/"
 ---
 ---
 
