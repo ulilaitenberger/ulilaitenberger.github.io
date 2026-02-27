@@ -14,10 +14,10 @@ params:
   photo: "picture.png"
 
   bio: |
-    I am an Associate Professor at Tilburg University, where I lead the Information Systems section.
-    My research sits at the intersection of economics and information systems — studying how digital
-    markets and platforms compete, how algorithms shape product discovery and labor allocation, and
-    what this means for consumers, workers, and regulators.
+    I am an Associate Professor at Tilburg University, where I am Academic Lead of the Information
+    Systems section. My research sits at the intersection of economics and information systems —
+    studying how digital markets and platforms compete, how algorithms shape product discovery and
+    labor allocation, and what this means for consumers, workers, and regulators.
 
   interests:
     - Platform Economics
@@ -56,12 +56,6 @@ params:
     - name: ORCID
       url: "https://orcid.org/0000-0002-7009-0190"
       icon: orcid
-    - name: SSRN
-      url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1655010"
-      icon: ssrn
-    - name: CV
-      url: "cv.pdf"
-      icon: cv
 
   affiliations:
     - text: "Research affiliate, [CESifo Network](https://www.cesifo.org/en/network-member/laitenberger-ulrich)"
@@ -69,12 +63,12 @@ params:
     - text: "[Visiting Professor](https://www.telecom-paris.fr/ulrich-laitenberger) at [Telecom Paris](https://www.telecom-paris.fr/), [Institut Polytechnique](https://www.ip-paris.fr/)"
 
   sections:
-    - name: Publications
-      id: publications
-      file: publications
     - name: Research
       id: research
       file: research
+    - name: Publications
+      id: publications
+      file: publications
     - name: Teaching
       id: teaching
       file: teaching

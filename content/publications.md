@@ -4,14 +4,6 @@ headless: false
 ---
 ---
 
-## Research Topics
-
-- Platform Economics and Digital Markets
-- Algorithmic Governance and Competition Policy
-- Online Labor Markets, AI, and Digital Health
-
----
-
 ## 1. Key Publications
 
 **[Unemployment and Online Labor — Evidence from Microtasking](https://misq.umn.edu/unemployment-and-online-labor-evidence-from-microtasking.html)**
@@ -28,7 +20,7 @@ headless: false
 
 **[The Anticompetitive Effect of Minority Share Acquisitions: Evidence from the Introduction of National Leniency Programs](https://www.aeaweb.org/articles?id=10.1257/mic.20190117&&from=f)**
 *American Economic Journal: Microeconomics*, 2022, 14(1): 366–410. With Sven Heim, Kai Hüschelrath and Yossi Spiegel.
-<a class="pub-link" href="https://www.tau.ac.il/~spiegel/papers/MS-20200528.pdf">WP</a> <a class="pub-link" href="https://www.tau.ac.il/~spiegel/papers/MS-OnlineAppendix.pdf">Online Appendix</a> Nominated for the [Antitrust Writing Award 2023](https://awards.concurrences.com/en/awards/2023/academic-articles/the-anticompetitive-effects-of-minority-share-acquisitions-evidence-from-the)
+<a class="pub-link" href="https://www.tau.ac.il/~spiegel/papers/MS-20200528.pdf">WP</a> <a class="pub-link" href="https://www.tau.ac.il/~spiegel/papers/MS-OnlineAppendix.pdf">Online Appendix</a> <a class="pub-link" href="https://awards.concurrences.com/en/awards/2023/academic-articles/the-anticompetitive-effects-of-minority-share-acquisitions-evidence-from-the">Antitrust Writing Award 2023</a>
 
 ---
 

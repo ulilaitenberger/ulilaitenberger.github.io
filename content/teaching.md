@@ -49,3 +49,21 @@ headless: false
 | Economics of Telecom Regulation — Corps de Mines | — | Spring 2020 |
 | Using the Internet as Data Source for Empirical Research — Competition and Innovation Summer School | PhD/Master | 2017, 2018 |
 | Discrete Choice Models (Advanced Applied Econometrics) — KU Leuven | Master/PhD | Spring 2016 |
+
+---
+
+## PhD Supervisions
+
+### Main Advisor
+
+1. [Raphaela Andres](https://www.zew.de/team/RAN) (Telecom Paris). Defended May 2024. PostDoc at [ZEW](http://www.zew.de).
+2. [Chiara Belletti](https://www.linkedin.com/in/chiara-belletti-8b131713b) (Telecom Paris, funded by [ANR-HUSH](http://diplab.eu/?page_id=412)). Defended May 2024. PostDoc at [ISTO/LMU Munich](https://www.som.lmu.de/isto/en/).
+3. [Francisco Magalhaes Barros](https://www.linkedin.com/in/frmb-3649a235/) (Telecom Paris, co-supervised with [Marc Bourreau](http://ses-perso.telecom-paristech.fr/bourreau/)). Defended January 2025. Policy advisor at [ARCEP](https://www.arcep.fr/).
+4. [Ehsan Sabzizadeh](https://www.linkedin.com/in/ehsansabzizadeh/) (Tilburg University). Planned defense: 2028.
+5. [Casper Steehouwer](https://www.linkedin.com/in/casper-steehouwer-61b7931a9) (Tilburg University). Planned defense: 2029.
+
+### PhD Committee Member
+
+1. Simona Wagner — Luxembourg University (Committee member)
+2. Felix Schleef — ENSAE (Reviewer)
+3. Hugo Allouard — U. Saclay (Reviewer)

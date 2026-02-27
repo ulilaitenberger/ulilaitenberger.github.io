@@ -16,25 +16,26 @@ nav.scrolled{box-shadow:0 1px 8px rgba(0,0,0,.06)}
 .hamburger span{display:block;width:22px;height:2px;background:var(--ink);margin:5px 0;border-radius:1px}
 
 /* HERO */
-.hero{max-width:1080px;margin:0 auto;padding:120px 2rem 60px;display:grid;grid-template-columns:1fr 280px;gap:4rem;align-items:start}
+.hero{max-width:1080px;margin:0 auto;padding:120px 2rem 60px;display:grid;grid-template-columns:1fr 260px;gap:4rem;align-items:start}
 .hero-text h1{font-family:'Newsreader',serif;font-size:2.8rem;font-weight:400;line-height:1.15;letter-spacing:-.03em;margin-bottom:.4rem}
 .hero-title-line{font-size:1.05rem;color:var(--ink-muted);margin-bottom:1.5rem}
 .hero-bio{color:var(--ink-light);font-size:1rem;line-height:1.8;max-width:600px}
 .hero-bio p{margin-bottom:1rem}
 .hero-bio em{font-family:'Newsreader',serif;color:var(--accent);font-style:italic}
-.hero-photo{width:280px;height:340px;object-fit:cover;border-radius:6px;filter:grayscale(10%);box-shadow:0 8px 30px rgba(0,0,0,.08)}
-.social-row{margin-top:1.8rem;display:flex;flex-wrap:wrap;gap:.6rem}
-.social-row a{display:inline-flex;align-items:center;gap:.35rem;padding:.35rem .75rem;border:1px solid var(--rule);border-radius:4px;text-decoration:none;color:var(--ink-muted);font-size:.8rem;font-weight:500;transition:all .2s}
-.social-row a:hover{color:var(--accent);border-color:var(--accent);background:var(--accent-subtle);text-decoration:none}
-.social-row svg{width:14px;height:14px}
+.hero-photo{width:260px;height:320px;object-fit:cover;border-radius:6px;filter:grayscale(10%);box-shadow:0 8px 30px rgba(0,0,0,.08)}
+
+/* Social links — subtle, same bg as page */
+.social-row{margin-top:1.8rem;display:flex;flex-wrap:wrap;gap:.5rem}
+.social-row a{display:inline-flex;align-items:center;gap:.3rem;padding:.3rem .65rem;border:1px solid var(--rule);border-radius:4px;text-decoration:none;color:var(--ink-muted);font-size:.8rem;font-weight:400;transition:all .2s}
+.social-row a:hover{color:var(--accent);border-color:rgba(45,90,123,.4);background:var(--accent-subtle);text-decoration:none}
+.social-row svg{width:13px;height:13px;opacity:.7}
 
 /* BIO PANELS — interests + education */
 .bio-panels{margin-top:1.8rem;display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;padding-top:1.5rem;border-top:1px solid var(--rule)}
-.bio-panel-label{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-muted);font-weight:600;margin-bottom:.75rem}
-.interest-tags{display:flex;flex-wrap:wrap;gap:.4rem}
-.interest-tag{font-size:.78rem;padding:.22rem .65rem;background:var(--accent-subtle);color:var(--accent);border-radius:3px;font-weight:500}
+.bio-panel-label{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-muted);font-weight:600;margin-bottom:.6rem}
+.interest-list{font-size:.88rem;color:var(--ink-light);line-height:1.7}
 .edu-list{list-style:none;padding:0}
-.edu-list li{font-size:.85rem;color:var(--ink-light);padding:.25rem 0;display:grid;grid-template-columns:3.2rem 1fr auto;gap:.6rem;align-items:baseline}
+.edu-list li{font-size:.85rem;color:var(--ink-light);padding:.2rem 0;display:grid;grid-template-columns:3.2rem 1fr auto;gap:.6rem;align-items:baseline}
 .edu-degree{font-weight:600;color:var(--ink);font-size:.75rem;text-transform:uppercase;letter-spacing:.04em}
 .edu-year{color:var(--ink-muted);font-size:.8rem;white-space:nowrap}
 
@@ -63,9 +64,14 @@ section+section{border-top:1px solid var(--rule)}
 .section-content ol{padding-left:1.2rem}
 .section-content ol li{font-size:.95rem;color:var(--ink-light);padding:.3rem 0;line-height:1.65}
 
-/* Publication & policy sub-links — themed badge buttons */
-.section-content ul li a,a.pub-link{display:inline-flex;align-items:center;margin:.3rem .2rem 0 0;padding:.2rem .6rem;background:var(--accent-subtle);color:var(--accent) !important;font-size:.72rem;font-weight:600;letter-spacing:.03em;border-radius:3px;border:1px solid rgba(45,90,123,.25);text-decoration:none !important;transition:all .2s}
-.section-content ul li a:hover,a.pub-link:hover{background:var(--accent);color:#fff !important;border-color:var(--accent);text-decoration:none !important}
+/* Publication & policy sub-links — subtle badge, scoped to relevant sections only */
+.sec-publications .section-content ul li a,
+.sec-expertises .section-content ul li a,
+a.pub-link{display:inline-flex;align-items:center;margin:.3rem .2rem 0 0;padding:.18rem .55rem;background:var(--cream);color:var(--accent) !important;font-size:.72rem;font-weight:500;letter-spacing:.02em;border-radius:3px;border:1px solid var(--rule);text-decoration:none !important;transition:all .2s}
+.sec-publications .section-content ul li a:hover,
+.sec-expertises .section-content ul li a:hover,
+a.pub-link:hover{background:var(--accent-subtle);border-color:rgba(45,90,123,.4);text-decoration:none !important}
+
 /* Table cell links stay plain */
 .section-content td a{display:inline;margin:0;padding:0;background:none;color:var(--accent) !important;font-size:inherit;font-weight:inherit;letter-spacing:inherit;border-radius:0;border:none;text-decoration:none !important}
 .section-content td a:hover{background:none;color:var(--ink) !important;text-decoration:underline !important}
@@ -85,7 +91,7 @@ footer{max-width:1080px;margin:0 auto;padding:2rem;border-top:1px solid var(--ru
 /* RESPONSIVE */
 @media(max-width:768px){
   .hero{grid-template-columns:1fr;gap:2rem;padding-top:90px}
-  .hero-photo{width:150px;height:120px;order:-1}
+  .hero-photo{width:140px;height:175px;order:-1}
   .hero-text h1{font-size:2rem}
   .nav-links{display:none;position:absolute;top:60px;left:0;right:0;background:var(--cream);flex-direction:column;padding:1rem 2rem;gap:1rem;border-bottom:1px solid var(--rule)}
   .nav-links.open{display:flex}.hamburger{display:block}

@@ -4,7 +4,7 @@
 {{ range .Site.Params.sections }}
   {{ $page := site.GetPage (printf "/%s" .file) }}
   {{ if $page }}
-  <section id="{{ .id }}" class="fade-in">
+  <section id="{{ .id }}" class="fade-in sec-{{ .file }}">
     <div class="section-header">
       <h2>{{ .name }}</h2>
       <div class="line"></div>

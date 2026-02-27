@@ -11,9 +11,7 @@
       {{ with .Site.Params.interests }}
       <div>
         <div class="bio-panel-label">Research Interests</div>
-        <div class="interest-tags">
-          {{ range . }}<span class="interest-tag">{{ . }}</span>{{ end }}
-        </div>
+        <p class="interest-list">{{ delimit . " · " }}</p>
       </div>
       {{ end }}
       {{ with .Site.Params.education }}
