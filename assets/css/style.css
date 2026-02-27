@@ -74,6 +74,11 @@ a.pub-link{display:inline-flex;align-items:center;margin:.3rem .2rem 0 0;padding
 .sec-expertises .section-content ul li a:hover,
 a.pub-link:hover{background:var(--accent-subtle);border-color:rgba(45,90,123,.4);text-decoration:none !important}
 
+/* Talks date-column table */
+.sec-talks .section-content table{table-layout:auto}
+.sec-talks .section-content thead{display:none}
+.sec-talks .section-content td:first-child{width:7.5rem;color:var(--ink-muted);font-size:.85rem;white-space:nowrap;vertical-align:top;padding-top:.45rem}
+
 /* Table cell links stay plain */
 .section-content td a{display:inline;margin:0;padding:0;background:none;color:var(--accent) !important;font-size:inherit;font-weight:inherit;letter-spacing:inherit;border-radius:0;border:none;text-decoration:none !important}
 .section-content td a:hover{background:none;color:var(--ink) !important;text-decoration:underline !important}
