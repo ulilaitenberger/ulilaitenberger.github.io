@@ -6,9 +6,9 @@ headless: false
 
 ## Research Topics
 
-- Digital Markets and Platforms
-- Antitrust and Competition Policy
-- E-commerce, Healthcare Markets
+- Platform Economics and Digital Markets
+- Algorithmic Governance and Competition Policy
+- Online Labor Markets, AI, and Digital Health
 
 ---
 
@@ -16,25 +16,25 @@ headless: false
 
 **[Unemployment and Online Labor — Evidence from Microtasking](https://misq.umn.edu/unemployment-and-online-labor-evidence-from-microtasking.html)**
 *Management Information Systems Quarterly*, 2023. With [Steffen Viete](https://www.linkedin.com/in/steffen-viete-1055b720a), [Olga Slivkó](https://sites.google.com/site/oslivko/research), [Michael Kummer](https://sites.google.com/site/kummermannheim/), [Kathrin Borchert](https://www.linkedin.com/in/kathrin-borchert-95527b203/) and [Matthias Hirth](https://www.tu-ilmenau.de/mt-nam/).
-[[WP](https://www.dropbox.com/s/8w7ivyww8i3ssaq/Microworkers_20220412_with_titlepdf.pdf?dl=1)] [[Coverage: RSM](https://discovery.rsm.nl/operations/534-attracting-and-keeping-the-right-workers-for-online-platforms/)]
+<a class="pub-link" href="https://www.dropbox.com/s/8w7ivyww8i3ssaq/Microworkers_20220412_with_titlepdf.pdf?dl=1">WP</a> <a class="pub-link" href="https://discovery.rsm.nl/operations/534-attracting-and-keeping-the-right-workers-for-online-platforms/">Coverage: RSM</a>
 
 ---
 
 **[Vertical Integration of Platforms and Product Prominence](https://rdcu.be/cRENT)**
 *Quantitative Marketing and Economics*, 2022. With [Morgane Cure](https://sites.google.com/view/morganecure/), [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhaber/?lang=de), [Reinhold Kesler](http://rkesler.com/), [Thomas Larrieu](https://www.linkedin.com/in/thomaslarrieu/).
-[[WP](https://www.dropbox.com/s/fnkcnbeit1y8tn8/METAOTA_20220430.pdf?dl=1)] [[TSE Digital Econ. Conf.](https://www.youtube.com/watch?v=5AAeTkyqkfM&t=792s)] [[New Econ. of Platforms Seminar](https://www.youtube.com/watch?v=2kM3lGAczK8)]
+<a class="pub-link" href="https://www.dropbox.com/s/fnkcnbeit1y8tn8/METAOTA_20220430.pdf?dl=1">WP</a> <a class="pub-link" href="https://www.youtube.com/watch?v=5AAeTkyqkfM&t=792s">TSE Digital Econ. Conf.</a> <a class="pub-link" href="https://www.youtube.com/watch?v=2kM3lGAczK8">New Econ. of Platforms Seminar</a>
 
 ---
 
 **[The Anticompetitive Effect of Minority Share Acquisitions: Evidence from the Introduction of National Leniency Programs](https://www.aeaweb.org/articles?id=10.1257/mic.20190117&&from=f)**
 *American Economic Journal: Microeconomics*, 2022, 14(1): 366–410. With Sven Heim, Kai Hüschelrath and Yossi Spiegel.
-[[WP](https://www.tau.ac.il/~spiegel/papers/MS-20200528.pdf)] [[Online Appendix](https://www.tau.ac.il/~spiegel/papers/MS-OnlineAppendix.pdf)] [Nominated for the [Antitrust Writing Award 2023](https://awards.concurrences.com/en/awards/2023/academic-articles/the-anticompetitive-effects-of-minority-share-acquisitions-evidence-from-the)]
+<a class="pub-link" href="https://www.tau.ac.il/~spiegel/papers/MS-20200528.pdf">WP</a> <a class="pub-link" href="https://www.tau.ac.il/~spiegel/papers/MS-OnlineAppendix.pdf">Online Appendix</a> Nominated for the [Antitrust Writing Award 2023](https://awards.concurrences.com/en/awards/2023/academic-articles/the-anticompetitive-effects-of-minority-share-acquisitions-evidence-from-the)
 
 ---
 
 **[Competition, Collusion and Spatial Sales Patterns — Theory and Evidence](https://onlinelibrary.wiley.com/doi/10.1111/joie.12237)**
 *Journal of Industrial Economics*, 2020, 68(4), 737–779. With [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhaber/?lang=de), Kai Hüschelrath and Johannes Muthers.
-[[WP](https://www.dropbox.com/s/5t2jtg0g9zcaa1n/zemtanz_with_onlineappendix.pdf?dl=0)]
+<a class="pub-link" href="https://www.dropbox.com/s/5t2jtg0g9zcaa1n/zemtanz_with_onlineappendix.pdf?dl=0">WP</a>
 
 ---
 

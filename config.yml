@@ -14,20 +14,28 @@ params:
   photo: "picture.png"
 
   bio: |
-    I am an Associate Professor at Tilburg University, and Academic Lead of the Information Systems section.
-    I received my PhD in Business Economics from KU Leuven in 2015.
+    I am an Associate Professor at Tilburg University, where I lead the Information Systems section.
+    My research sits at the intersection of economics and information systems — studying how digital
+    markets and platforms compete, how algorithms shape product discovery and labor allocation, and
+    what this means for consumers, workers, and regulators.
 
-    I conduct empirical research at the intersection of economics and information systems.
-    My research interests include studying how digital markets and platforms operate and how
-    competition between and on them takes place. Examples of topics I have looked at include
-    the potential biases in recommendation systems, online labor platforms, and reputation mechanisms.
-    I have published papers on these topics in journals such as the *Management Information Systems Quarterly*,
-    *Quantitative Marketing and Economics*, and *Marketing Science*.
+  interests:
+    - Platform Economics
+    - Algorithmic Governance
+    - Online Labor Markets
+    - AI & Digital Content
+    - Competition Policy
 
-    In addition to my current work in these areas, I have also conducted research on competition policy,
-    specifically examining the effects of minority share acquisitions on competition and the factors
-    that influence cartel stability and collapse. I have published papers on these topics in academic
-    journals such as the *American Economic Journal: Microeconomics* and the *Journal of Industrial Economics*.
+  education:
+    - degree: HDR
+      institution: "Université Paris 2 Panthéon-Assas"
+      year: "2019"
+    - degree: PhD
+      institution: "KU Leuven"
+      year: "2015"
+    - degree: Diplom
+      institution: "Universität Würzburg"
+      year: "2010"
 
   socialLinks:
     - name: E-Mail

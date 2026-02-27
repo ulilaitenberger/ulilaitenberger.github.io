@@ -1,4 +1,6 @@
 <footer>
   <div>&copy; {{ now.Year }} {{ .Site.Title }}</div>
-  <div><a href="mailto:laitenberger@enst.fr">laitenberger@enst.fr</a></div>
+  <div>
+    {{ range .Site.Params.socialLinks }}{{ if eq .icon "email" }}<a href="{{ .url }}">{{ strings.TrimPrefix "mailto:" .url }}</a>{{ end }}{{ end }}
+  </div>
 </footer>

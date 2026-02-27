@@ -1,4 +1,4 @@
-:root{--ink:#1a1a2e;--ink-light:#3d3d5c;--ink-muted:#6b6b8a;--cream:#faf9f6;--cream-dark:#f0efe9;--accent:#2d5a7b;--accent-subtle:#e8f0f5;--rule:#d4d0c8;--warm:#8b7355}
+:root{--ink:#1a1a2e;--ink-light:#2a2a45;--ink-muted:#6b6b8a;--cream:#faf9f6;--cream-dark:#f0efe9;--accent:#2d5a7b;--accent-subtle:#e8f0f5;--rule:#d4d0c8;--warm:#8b7355}
 *{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}
 body{font-family:'DM Sans',sans-serif;color:var(--ink);background:var(--cream);line-height:1.7;font-size:16px;-webkit-font-smoothing:antialiased}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
@@ -27,6 +27,17 @@ nav.scrolled{box-shadow:0 1px 8px rgba(0,0,0,.06)}
 .social-row a{display:inline-flex;align-items:center;gap:.35rem;padding:.35rem .75rem;border:1px solid var(--rule);border-radius:4px;text-decoration:none;color:var(--ink-muted);font-size:.8rem;font-weight:500;transition:all .2s}
 .social-row a:hover{color:var(--accent);border-color:var(--accent);background:var(--accent-subtle);text-decoration:none}
 .social-row svg{width:14px;height:14px}
+
+/* BIO PANELS — interests + education */
+.bio-panels{margin-top:1.8rem;display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;padding-top:1.5rem;border-top:1px solid var(--rule)}
+.bio-panel-label{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-muted);font-weight:600;margin-bottom:.75rem}
+.interest-tags{display:flex;flex-wrap:wrap;gap:.4rem}
+.interest-tag{font-size:.78rem;padding:.22rem .65rem;background:var(--accent-subtle);color:var(--accent);border-radius:3px;font-weight:500}
+.edu-list{list-style:none;padding:0}
+.edu-list li{font-size:.85rem;color:var(--ink-light);padding:.25rem 0;display:grid;grid-template-columns:3.2rem 1fr auto;gap:.6rem;align-items:baseline}
+.edu-degree{font-weight:600;color:var(--ink);font-size:.75rem;text-transform:uppercase;letter-spacing:.04em}
+.edu-year{color:var(--ink-muted);font-size:.8rem;white-space:nowrap}
+
 .affiliations{margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--rule)}
 .affiliations h3{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-muted);font-weight:600;margin-bottom:.6rem}
 .affiliations ul{list-style:none}.affiliations li{font-size:.9rem;color:var(--ink-light);padding:.25rem 0}
@@ -42,25 +53,25 @@ section+section{border-top:1px solid var(--rule)}
 .section-content h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--warm);font-weight:600;margin:2rem 0 1rem;padding-bottom:.5rem;border-bottom:2px solid var(--cream-dark)}
 .section-content h3{font-family:'Newsreader',serif;font-size:1.1rem;font-weight:500;color:var(--ink);margin:1.5rem 0 .6rem;padding-bottom:.4rem;border-bottom:2px solid var(--cream-dark)}
 .section-content h4{font-size:.85rem;color:var(--ink-muted);font-weight:600;margin:.8rem 0 .5rem}
-.section-content p{font-size:.9rem;color:var(--ink-light);line-height:1.7;margin-bottom:.3rem}
+.section-content p{font-size:.95rem;color:var(--ink-light);line-height:1.75;margin-bottom:.3rem}
 .section-content p strong a,.section-content p strong{color:var(--ink);font-weight:500}
 .section-content p a{color:var(--accent)}
 .section-content p em{font-family:'Newsreader',serif;color:var(--accent);font-style:italic}
 .section-content hr{border:none;border-top:1px solid var(--cream-dark);margin:.8rem 0}
 .section-content ul{list-style:none;padding:0}
-.section-content ul li{font-size:.9rem;color:var(--ink-light);padding:.3rem 0;line-height:1.6}
+.section-content ul li{font-size:.95rem;color:var(--ink-light);padding:.3rem 0;line-height:1.65}
 .section-content ol{padding-left:1.2rem}
-.section-content ol li{font-size:.9rem;color:var(--ink-light);padding:.3rem 0;line-height:1.6}
+.section-content ol li{font-size:.95rem;color:var(--ink-light);padding:.3rem 0;line-height:1.65}
 
-/* Publication sub-links — badge style (ul only, not tables) */
-.section-content ul li a{display:inline-flex;align-items:center;margin:.3rem .2rem 0 0;padding:.18rem .55rem;background:var(--ink);color:var(--cream) !important;font-size:.72rem;font-weight:600;letter-spacing:.03em;border-radius:3px;text-decoration:none !important;transition:background .2s,color .2s}
-.section-content ul li a:hover{background:var(--accent);color:#fff !important;text-decoration:none !important}
+/* Publication & policy sub-links — themed badge buttons */
+.section-content ul li a,a.pub-link{display:inline-flex;align-items:center;margin:.3rem .2rem 0 0;padding:.2rem .6rem;background:var(--accent-subtle);color:var(--accent) !important;font-size:.72rem;font-weight:600;letter-spacing:.03em;border-radius:3px;border:1px solid rgba(45,90,123,.25);text-decoration:none !important;transition:all .2s}
+.section-content ul li a:hover,a.pub-link:hover{background:var(--accent);color:#fff !important;border-color:var(--accent);text-decoration:none !important}
 /* Table cell links stay plain */
-.section-content td a{display:inline;margin:0;padding:0;background:none;color:var(--accent) !important;font-size:inherit;font-weight:inherit;letter-spacing:inherit;border-radius:0;text-decoration:none !important}
+.section-content td a{display:inline;margin:0;padding:0;background:none;color:var(--accent) !important;font-size:inherit;font-weight:inherit;letter-spacing:inherit;border-radius:0;border:none;text-decoration:none !important}
 .section-content td a:hover{background:none;color:var(--ink) !important;text-decoration:underline !important}
 
-/* Tables for teaching */
-.section-content table{width:100%;border-collapse:collapse;font-size:.9rem;margin:.5rem 0 1rem}
+/* Tables */
+.section-content table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:.9rem;margin:.5rem 0 1rem}
 .section-content th{text-align:left;font-weight:600;color:var(--ink-muted);font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;padding:.5rem .5rem;border-bottom:2px solid var(--cream-dark)}
 .section-content td{padding:.4rem .5rem;color:var(--ink-light);border-bottom:1px solid rgba(0,0,0,.03)}
 
@@ -80,4 +91,6 @@ footer{max-width:1080px;margin:0 auto;padding:2rem;border-top:1px solid var(--ru
   .nav-links.open{display:flex}.hamburger{display:block}
   .section-header h2{font-size:1.5rem}
   .section-content table{font-size:.8rem}
+  .bio-panels{grid-template-columns:1fr}
+  .edu-list li{grid-template-columns:2.5rem 1fr auto}
 }

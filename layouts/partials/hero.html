@@ -6,6 +6,33 @@
       {{ .Site.Params.bio | markdownify }}
     </div>
 
+    {{ if or .Site.Params.interests .Site.Params.education }}
+    <div class="bio-panels">
+      {{ with .Site.Params.interests }}
+      <div>
+        <div class="bio-panel-label">Research Interests</div>
+        <div class="interest-tags">
+          {{ range . }}<span class="interest-tag">{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+      {{ with .Site.Params.education }}
+      <div>
+        <div class="bio-panel-label">Education</div>
+        <ul class="edu-list">
+          {{ range . }}
+          <li>
+            <span class="edu-degree">{{ .degree }}</span>
+            <span>{{ .institution }}</span>
+            <span class="edu-year">{{ .year }}</span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
     <div class="social-row">
       {{ range .Site.Params.socialLinks }}
       <a href="{{ .url }}" {{ if not (hasPrefix .url "mailto:") }}target="_blank" rel="noopener"{{ end }}>

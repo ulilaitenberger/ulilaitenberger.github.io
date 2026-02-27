@@ -35,17 +35,17 @@ headless: false
 
 ## Full Courses at Other Universities
 
-| Course | Institution | Level | Years |
-|--------|------------|-------|-------|
-| Internet Economics (Lecture & Seminar) | U. Mannheim | Bachelor | Spring 2017 |
-| Industrial Economics and Competition Theory | U. Heidelberg | Master | Fall 2017 |
+| Course | Level | Years |
+|--------|-------|-------|
+| Internet Economics — U. Mannheim | Bachelor | Spring 2017 |
+| Industrial Economics and Competition Theory — U. Heidelberg | Master | Fall 2017 |
 
 ---
 
 ## Other Courses
 
-| Course | Institution | Level | Years |
-|--------|------------|-------|-------|
-| Economics of Telecom Regulation | Corps de Mines | — | Spring 2020 |
-| Using the Internet as Data Source for Empirical Research | Competition and Innovation Summer School | PhD/Master | 2017, 2018 |
-| Discrete Choice Models (Advanced Applied Econometrics) | KU Leuven | Master/PhD | Spring 2016 |
+| Course | Level | Years |
+|--------|-------|-------|
+| Economics of Telecom Regulation — Corps de Mines | — | Spring 2020 |
+| Using the Internet as Data Source for Empirical Research — Competition and Innovation Summer School | PhD/Master | 2017, 2018 |
+| Discrete Choice Models (Advanced Applied Econometrics) — KU Leuven | Master/PhD | Spring 2016 |
