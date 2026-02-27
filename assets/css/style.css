@@ -59,6 +59,8 @@ section+section{border-top:1px solid var(--rule)}
 .section-content p a{color:var(--accent)}
 .section-content p em{font-family:'Newsreader',serif;color:var(--accent);font-style:italic}
 .section-content hr{border:none;border-top:1px solid var(--cream-dark);margin:.8rem 0}
+.section-content>hr:first-child{display:none}
+.section-content>h2:first-child,.section-content>hr:first-child+h2{margin-top:0}
 .section-content ul{list-style:none;padding:0}
 .section-content ul li{font-size:.95rem;color:var(--ink-light);padding:.3rem 0;line-height:1.65}
 .section-content ol{padding-left:1.2rem}
