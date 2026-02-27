@@ -44,27 +44,27 @@ nav.scrolled{box-shadow:0 1px 8px rgba(0,0,0,.06)}
 .affiliations ul{list-style:none}.affiliations li{font-size:.9rem;color:var(--ink-light);padding:.25rem 0}
 
 /* SECTIONS */
-section{max-width:1080px;margin:0 auto;padding:3.5rem 2rem}
+section{max-width:1080px;margin:0 auto;padding:2.5rem 2rem}
 section+section{border-top:1px solid var(--rule)}
 .section-header{display:flex;align-items:baseline;gap:1rem;margin-bottom:1.2rem}
 .section-header h2{font-family:'Newsreader',serif;font-size:1.8rem;font-weight:400;letter-spacing:-.02em;white-space:nowrap}
 .section-header .line{flex:1;height:1px;background:var(--rule)}
 
 /* CONTENT STYLING — rendered from Markdown */
-.section-content h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--warm);font-weight:600;margin:2rem 0 1rem;padding-bottom:.5rem;border-bottom:2px solid var(--cream-dark)}
-.section-content h3{font-family:'Newsreader',serif;font-size:1.1rem;font-weight:500;color:var(--ink);margin:1.5rem 0 .6rem;padding-bottom:.4rem;border-bottom:2px solid var(--cream-dark)}
+.section-content h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--warm);font-weight:600;margin:1.4rem 0 .7rem;padding-bottom:.4rem;border-bottom:2px solid var(--cream-dark)}
+.section-content h3{font-family:'Newsreader',serif;font-size:1.1rem;font-weight:500;color:var(--ink);margin:1.1rem 0 .4rem;padding-bottom:.3rem;border-bottom:2px solid var(--cream-dark)}
 .section-content h4{font-size:.85rem;color:var(--ink-muted);font-weight:600;margin:.8rem 0 .5rem}
 .section-content p{font-size:.95rem;color:var(--ink-light);line-height:1.75;margin-bottom:.3rem}
 .section-content p strong a,.section-content p strong{color:var(--ink);font-weight:500}
 .section-content p a{color:var(--accent)}
 .section-content p em{font-family:'Newsreader',serif;color:var(--accent);font-style:italic}
-.section-content hr{border:none;border-top:1px solid var(--cream-dark);margin:.8rem 0}
+.section-content hr{border:none;border-top:1px solid var(--cream-dark);margin:.45rem 0}
 .section-content>hr:first-child{display:none}
 .section-content>h2:first-child,.section-content>hr:first-child+h2{margin-top:0}
 .section-content ul{list-style:none;padding:0}
-.section-content ul li{font-size:.95rem;color:var(--ink-light);padding:.3rem 0;line-height:1.65}
+.section-content ul li{font-size:.95rem;color:var(--ink-light);padding:.15rem 0;line-height:1.6}
 .section-content ol{padding-left:1.2rem}
-.section-content ol li{font-size:.95rem;color:var(--ink-light);padding:.3rem 0;line-height:1.65}
+.section-content ol li{font-size:.95rem;color:var(--ink-light);padding:.15rem 0;line-height:1.6}
 
 /* Publication & policy sub-links — subtle badge, scoped to relevant sections only */
 .sec-publications .section-content ul li a,

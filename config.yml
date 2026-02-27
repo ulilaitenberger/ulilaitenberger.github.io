@@ -16,8 +16,9 @@ params:
   bio: |
     I am an Associate Professor at Tilburg University, where I am Academic Lead of the Information
     Systems section. My research sits at the intersection of economics and information systems —
-    studying how digital markets and platforms compete, how algorithms shape product discovery and
-    labor allocation, and what this means for consumers, workers, and regulators.
+    studying how digital markets function and their impact on society, how platforms operate and
+    compete, how firms deploy AI to shape product discovery, content, and labor allocation, and
+    what this means for consumers, workers, and regulators.
 
   interests:
     - Platform Economics
