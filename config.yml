@@ -8,10 +8,10 @@ markup:
       unsafe: true
 
 params:
-  description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platforms, competition policy, and recommendation systems."
+  description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platform economics, algorithmic governance, online labor markets, and AI-generated content."
   author: "Ulrich Laitenberger"
   subtitle: "Associate Professor of Information Systems · Tilburg University"
-  photo: "picture.jpeg"
+  photo: "picture.png"
 
   bio: |
     I am an Associate Professor at Tilburg University, and Academic Lead of the Information Systems section.
@@ -31,7 +31,7 @@ params:
 
   socialLinks:
     - name: E-Mail
-      url: "mailto:laitenberger@enst.fr"
+      url: "mailto:u.m.laitenberger@tilburguniversity.edu"
       icon: email
     - name: Faculty Website
       url: "https://www.tilburguniversity.edu/staff/u-m-laitenberger"
@@ -39,7 +39,7 @@ params:
     - name: LinkedIn
       url: "https://www.linkedin.com/in/ulrich-laitenberger-7972b9102/"
       icon: linkedin
-    - name: Twitter
+    - name: X
       url: "https://twitter.com/ulaitenberger"
       icon: twitter
     - name: Google Scholar
@@ -73,6 +73,6 @@ params:
     - name: Talks
       id: talks
       file: talks
-    - name: Expertises
-      id: expertises
+    - name: Policy Work
+      id: policy-work
       file: expertises
