@@ -9,7 +9,7 @@ title: "Teaching"
 |--------|-------|-------|
 | [Data and AI Governance](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/cursus/?collegejaar=huidig&taal=en&cursuscode=320102-M-6) | Master | since 2023 |
 | [Data Science Skills for Supply Chain Management](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/cursus/?collegejaar=huidig&taal=en&cursuscode=325235-M-3) | Master | 2023–2025, bi-annual |
-| [Data Science Research Methods](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/cursus/?collegejaar=huidig&taal=en&cursuscode=230499-M-6) | PhD | since 2024 |
+| [Data Science Methods](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/cursus/?collegejaar=huidig&taal=en&cursuscode=230499-M-6) | PhD, RM | since 2024 |
 | Enterprise Architecture and Business Strategy | Master | 2023 |
 | Information Management for International Business Administration | Bachelor | 2024 |
 | [Intervention-based Research Methods](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/cursus/?collegejaar=huidig&taal=en&cursuscode=230428-M-3) | PhD | since 2024 |
@@ -22,11 +22,12 @@ title: "Teaching"
 | Course | Level | Years |
 |--------|-------|-------|
 | Applied Research Project in Social and Economic Sciences | Master | 2018–2022 |
+| [Big Data](https://synapses.polytechnique.fr/catalogue/2021-2022/ue/10626/ECO680A-big-data?from=P2546) | Master (École Polytechnique) | 2021–2022 |
 | Competition and Regulation in the Digital Economy | Master | 2019–2021 |
 | Data Analysis in Economics 1: Collection and Visualization | Master | 2020–2022 |
 | E-Commerce | Master | 2020, 2021 |
-| New Technologies and the Sharing Economy | Master (École Polytechnique) | 2020–2022 |
-| Paris Young Economist Seminar on the Economics of Digitization | PhD (U. Paris-Saclay) | 2017–2022 |
+| [New Technologies and the Sharing Economy](https://synapses.polytechnique.fr/catalogue/2021-2022/ue/841/ECO660-new-technologies-and-sharing-economy) | Master (École Polytechnique) | 2020–2022 |
+| [Paris Young Economist Seminar on the Economics of Digitization](https://www.digitaleconomics-paris.fr/archive/ye-seminar-2021-2022) | PhD | 2017–2022 |
 | Economics of Platforms | Master | 2017–2022 |
 | Introduction to the Digital Economy | Master | 2017 |
 

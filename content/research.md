@@ -5,13 +5,13 @@ title: "Research"
 
 ## Working Papers Under Review
 
-**Split-Award Auctions and Supply Disruptions in the German Market for Generic Drugs**
+**When Does Multisourcing Intensify Competition? Procurement Auctions with Unreliable Suppliers**
 With [Nicolas Fugger](https://sites.google.com/view/nicolasfugger/home). Last version: January 2026. Under Review.
 
 ---
 
 **Innovation and User Composition in Online Labor Markets: Evidence from a Fee Change**
-With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home) and [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer). Last version: October 2025. Reject and Resubmit at *Research Policy*.
+With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: October 2025. Reject and Resubmit at *Research Policy*.
 
 ---
 
