@@ -11,12 +11,12 @@ With [Nicolas Fugger](https://sites.google.com/view/nicolasfugger/home). Last ve
 ---
 
 **Innovation and User Composition in Online Labor Markets: Evidence from a Fee Change**
-With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home) and [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer). Last version: October 2025. Under Review.
+With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home) and [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer). Last version: October 2025. Reject and Resubmit at *Research Policy*.
 
 ---
 
 **The Impact of AI-Generated Product Line Extensions: Evidence from Machine-Narrated Audiobooks**
-With [Marco Kotschedoff](https://kotsche.github.io/). February 2026. Under Review.
+With [Marco Kotschedoff](https://kotsche.github.io/). February 2026. Reject and Resubmit at *Marketing Science*.
 
 ---
 
