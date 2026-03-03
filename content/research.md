@@ -21,7 +21,7 @@ With [Marco Kotschedoff](https://kotsche.github.io/). February 2026. Reject and 
 ---
 
 **Does the Digital Divide Amplify the Health Divide? Evidence from Online Reviews**
-With [Michael Kummer](https://sites.google.com/site/kummermannheim/) and [Daniel Hughes](https://econ.gatech.edu/people/person/danny-hughes). Last Version: January 2026. Under Review.
+With [Michael Kummer](https://sites.google.com/site/kummermannheim/) and [Daniel Hughes](https://econ.gatech.edu/people/person/danny-hughes). Last Version: January 2026. Reject and Resubmit at *Information Systems Research*.
 
 ---
 
