@@ -28,7 +28,7 @@ With [Michael Kummer](https://sites.google.com/site/kummermannheim/) and [Daniel
 ## Work in Progress
 
 **Franchising Defrosts — The Impact of Retail Ownership on Product Availability**
-With [Yash Babar](https://business.wisc.edu/directory/profile/yash-babar/), [Florian Pethig](https://www.florianpethig.com/), [Xabier Barriola Salguiero](https://www.xabierbarriola.com/).
+With [Yash Babar](https://business.wisc.edu/directory/profile/yash-babar/), [Xabier Barriola Salguiero](https://www.xabierbarriola.com/), and [Florian Pethig](https://www.florianpethig.com/).
 
 ---
 
