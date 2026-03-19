@@ -7,6 +7,8 @@ title: "Talks"
 
 | Date | Event |
 |---|---|
+| June 17 | University of Cologne, CIIS Seminar Series (invited) |
+| May 8 | RWTH Aachen (online, invited) |
 | March 16–17 | [Digital Economy Workshop](http://www.digitalecon.org/workshop/athens-2026), Athens |
 | March 12 | Tilburg IS Section Research Afternoon (internal) |
 | March 6–7 | German IO Meeting, Munich |
