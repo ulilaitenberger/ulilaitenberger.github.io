@@ -40,25 +40,28 @@
       {{ end }}
     </div>
 
-    {{ with .Site.Params.phdStudents }}
-    <div class="affiliations">
-      <h3>PhD Students</h3>
-      <ul>
-        {{ range . }}
-        <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
-    {{ end }}
-
-    {{ with .Site.Params.affiliations }}
-    <div class="affiliations">
-      <h3>Other Affiliations</h3>
-      <ul>
-        {{ range . }}
-        <li>{{ .text | markdownify }}</li>
-        {{ end }}
-      </ul>
+    {{ if or .Site.Params.phdStudents .Site.Params.affiliations }}
+    <div class="affiliations-row">
+      {{ with .Site.Params.phdStudents }}
+      <div class="affiliations">
+        <h3>PhD Students</h3>
+        <ul>
+          {{ range . }}
+          <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      {{ with .Site.Params.affiliations }}
+      <div class="affiliations">
+        <h3>Other Affiliations</h3>
+        <ul>
+          {{ range . }}
+          <li>{{ .text | markdownify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
     </div>
     {{ end }}
   </div>

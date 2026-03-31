@@ -39,7 +39,7 @@ nav.scrolled{box-shadow:0 1px 8px rgba(0,0,0,.06)}
 .edu-degree{font-weight:600;color:var(--ink);font-size:.75rem;text-transform:uppercase;letter-spacing:.04em}
 .edu-year{color:var(--ink-muted);font-size:.8rem;white-space:nowrap}
 
-.affiliations{margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--rule)}
+.affiliations-row{margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--rule);display:grid;grid-template-columns:1fr 1fr;gap:2rem}
 .affiliations h3{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-muted);font-weight:600;margin-bottom:.6rem}
 .affiliations ul{list-style:none}.affiliations li{font-size:.9rem;color:var(--ink-light);padding:.25rem 0}
 
@@ -105,5 +105,6 @@ footer{max-width:1080px;margin:0 auto;padding:2rem;border-top:1px solid var(--ru
   .section-header h2{font-size:1.5rem}
   .section-content table{font-size:.8rem}
   .bio-panels{grid-template-columns:1fr}
+  .affiliations-row{grid-template-columns:1fr}
   .edu-list li{grid-template-columns:2.5rem 1fr auto}
 }
