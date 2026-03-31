@@ -27,7 +27,7 @@ params:
     - Platform Economics
     - Algorithmic Governance
     - Online Labor Markets
-    - AI & Digital Content
+    - AI & Digital Markets
     - Competition Policy
 
   education:
@@ -60,6 +60,12 @@ params:
     - name: ORCID
       url: "https://orcid.org/0000-0002-7009-0190"
       icon: orcid
+
+  phdStudents:
+    - name: "Casper Steehouwer"
+      url: "https://www.linkedin.com/in/casper-steehouwer-61b7931a9/"
+    - name: "Ehsan Sabzizadeh"
+      url: "https://www.ehsansabzizadeh.com/"
 
   affiliations:
     - text: "Research affiliate, [CESifo Network](https://www.cesifo.org/en/network-member/laitenberger-ulrich)"

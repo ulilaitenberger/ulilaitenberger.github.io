@@ -40,6 +40,17 @@
       {{ end }}
     </div>
 
+    {{ with .Site.Params.phdStudents }}
+    <div class="affiliations">
+      <h3>PhD Students</h3>
+      <ul>
+        {{ range . }}
+        <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
     {{ with .Site.Params.affiliations }}
     <div class="affiliations">
       <h3>Other Affiliations</h3>
