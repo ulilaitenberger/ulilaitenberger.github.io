@@ -1,0 +1,84 @@
+baseURL: "https://ulilaitenberger.github.io"
+languageCode: "en"
+title: "Ulrich Laitenberger"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  description: "Associate Professor of Information Systems at Tilburg University. Research on digital markets, platform economics, algorithmic governance, online labor markets, and AI-generated content."
+  author: "Ulrich Laitenberger"
+  subtitle: "Associate Professor of Information Systems · Tilburg University"
+  photo: "picture.png"
+
+  bio: |
+    I am an Associate Professor at Tilburg University, where I serve as Academic Lead of the
+    Information Systems section. My research investigates how digital platforms govern their
+    ecosystems — shaping pricing, competition, and the allocation of work and attention. I study
+    the consequences of platform design choices such as algorithmic pricing policies,
+    recommendation systems, and marketplace governance mechanisms for sellers, workers, and
+    consumers. Methodologically, I draw on applied econometrics and causal inference, combining
+    large-scale observational data with natural experiments and policy shocks. My work speaks to
+    competition policy, labor market regulation, and platform governance.
+
+  interests:
+    - Platform Economics
+    - Algorithmic Governance
+    - Online Labor Markets
+    - AI & Digital Content
+    - Competition Policy
+
+  education:
+    - degree: HDR
+      institution: "Université Paris 2 Panthéon-Assas"
+      year: "2019"
+    - degree: PhD
+      institution: "KU Leuven"
+      year: "2015"
+    - degree: Diplom
+      institution: "Universität Würzburg"
+      year: "2010"
+
+  socialLinks:
+    - name: E-Mail
+      url: "mailto:u.m.laitenberger@tilburguniversity.edu"
+      icon: email
+    - name: Faculty Website
+      url: "https://www.tilburguniversity.edu/staff/u-m-laitenberger"
+      icon: faculty
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/ulrich-laitenberger-7972b9102/"
+      icon: linkedin
+    - name: X
+      url: "https://twitter.com/ulaitenberger"
+      icon: twitter
+    - name: Google Scholar
+      url: "https://scholar.google.de/citations?user=avv8nJMAAAAJ"
+      icon: scholar
+    - name: ORCID
+      url: "https://orcid.org/0000-0002-7009-0190"
+      icon: orcid
+
+  affiliations:
+    - text: "Research affiliate, [CESifo Network](https://www.cesifo.org/en/network-member/laitenberger-ulrich)"
+    - text: "Research associate, [ZEW Mannheim, Digital Economy](https://www.zew.de/en/team/ula)"
+    - text: "[Visiting Professor](https://www.telecom-paris.fr/ulrich-laitenberger) at [Telecom Paris](https://www.telecom-paris.fr/), [Institut Polytechnique](https://www.ip-paris.fr/)"
+
+  sections:
+    - name: Research
+      id: research
+      file: research
+    - name: Publications
+      id: publications
+      file: publications
+    - name: Teaching
+      id: teaching
+      file: teaching
+    - name: Talks
+      id: talks
+      file: talks
+    - name: Policy Work
+      id: policy-work
+      file: expertises
