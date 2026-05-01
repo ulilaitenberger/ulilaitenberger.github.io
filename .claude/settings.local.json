@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /d/git/ulilaitenberger.github.io add content/research.md)",
+      "Bash(git -C:*)",
+      "Bash(git -C /d/git/ulilaitenberger.github.io push origin main)"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+<header class="hero">
+  <div class="hero-text">
+    <h1>{{ .Site.Title }}</h1>
+    <div class="hero-title-line">{{ .Site.Params.subtitle }}</div>
+    <div class="hero-bio">
+      {{ .Site.Params.bio | markdownify }}
+    </div>
+
+    {{ if or .Site.Params.interests .Site.Params.education }}
+    <div class="bio-panels">
+      {{ with .Site.Params.interests }}
+      <div>
+        <div class="bio-panel-label">Research Interests</div>
+        <p class="interest-list">{{ delimit . " · " }}</p>
+      </div>
+      {{ end }}
+      {{ with .Site.Params.education }}
+      <div>
+        <div class="bio-panel-label">Education</div>
+        <ul class="edu-list">
+          {{ range . }}
+          <li>
+            <span class="edu-degree">{{ .degree }}</span>
+            <span>{{ .institution }}</span>
+            <span class="edu-year">{{ .year }}</span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="social-row">
+      {{ range .Site.Params.socialLinks }}
+      <a href="{{ .url }}" {{ if not (hasPrefix .url "mailto:") }}target="_blank" rel="noopener"{{ end }}>
+        {{ partial "icon.html" (dict "icon" .icon) }}
+        {{ .name }}
+      </a>
+      {{ end }}
+    </div>
+
+    {{ if or .Site.Params.phdStudents .Site.Params.affiliations }}
+    <div class="affiliations-row">
+      {{ with .Site.Params.phdStudents }}
+      <div class="affiliations">
+        <h3>PhD Students</h3>
+        <ul>
+          {{ range . }}
+          <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      {{ with .Site.Params.affiliations }}
+      <div class="affiliations">
+        <h3>Other Affiliations</h3>
+        <ul>
+          {{ range . }}
+          <li>{{ .text | markdownify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  <img class="hero-photo" src="{{ .Site.Params.photo | relURL }}" alt="{{ .Site.Title }}">
+</header>
