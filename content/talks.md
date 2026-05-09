@@ -8,7 +8,7 @@ title: "Talks"
 | Date | Event |
 |---|---|
 | June 22–23 | [SCECR](https://scecr.com/scecr-2026/), Tokyo |
-| May 8 | RWTH Aachen (online, invited) |
+| June 1 | RWTH Aachen (online, invited) |
 | April 22 | University of Cologne, CIIS Seminar Series (invited) |
 | March 16–17 | [Digital Economy Workshop](http://www.digitalecon.org/workshop/athens-2026), Athens |
 | March 12 | Tilburg IS Section Research Afternoon (internal) |
