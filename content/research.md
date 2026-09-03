@@ -17,17 +17,17 @@ With [Yash Babar](https://business.wisc.edu/directory/profile/yash-babar/), [Xab
 ---
 
 **The Impact of AI-Generated Product Line Extensions: Evidence from Machine-Narrated Audiobooks**
-With [Marco Kotschedoff](https://kotsche.github.io/). Last version: April 2026.
+With [Marco Kotschedoff](https://kotsche.github.io/). Last version: September 2026.
 
 ---
 
 **Who Keeps Selling? Platform Fees and the Composition of Entrepreneurial Participation in an Online Labor Market**
-With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: October 2025. Under Review.
+With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: September 2026. Under Review.
 
 ---
 
 **When Does Multisourcing Intensify Competition? Procurement Auctions with Unreliable Suppliers**
-With [Nicolas Fugger](https://sites.google.com/view/nicolasfugger/home). Last version: January 2026.
+With [Nicolas Fugger](https://sites.google.com/view/nicolasfugger/home). Last version: September 2026.
 
 ---
 
