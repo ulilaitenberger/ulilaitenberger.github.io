@@ -21,8 +21,8 @@ With [Marco Kotschedoff](https://kotsche.github.io/). Last version: April 2026.
 
 ---
 
-**Innovation and User Composition in Online Labor Markets: Evidence from a Fee Change**
-With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: October 2025.
+**Who Keeps Selling? Platform Fees and the Composition of Entrepreneurial Participation in an Online Labor Market**
+With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: October 2025. Under Review.
 
 ---
 
