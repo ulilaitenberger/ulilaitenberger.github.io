@@ -50,7 +50,7 @@ With [Jiaqi Zhu](https://research.tilburguniversity.edu/en/persons/jiaqi-zhu) an
 ---
 
 **Seller Competition and Platform Coexistence: Evidence from German Real Estate Listings**
-With [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhaber/?lang=de), [Heiko Karle](https://sites.google.com/site/heikokarleecon/), and [Jannika Schade](https://www.wiwi.uni-siegen.de/fiwi/team/wisspers/schad.html.en?lang=en).
+With [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhaber/?lang=de), [Heiko Karle](https://sites.google.com/site/heikokarleecon/), and [Jannika Schad](https://www.wiwi.uni-siegen.de/fiwi/team/wisspers/schad.html.en?lang=en).
 
 ---
 
