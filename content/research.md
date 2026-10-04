@@ -37,10 +37,17 @@ With [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhab
 
 ---
 
+**Safety as Strategy: Consumer Protection and Platform Leakage**
+With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/) and [Florian Pethig](https://www.florianpethig.com/).
+<a class="pub-link" href="http://www.netinst.org/Pethig_26-07.pdf">NetInstitute Working Paper 26-7</a>
+
+---
+
 ## Work in Progress
 
 **Does GenAI Endanger or Engender Equal Wages? Quasi-Experimental Evidence on Online Labor Markets and the Gender Pay Gap**
 With [Casper Steehouwer](https://www.linkedin.com/in/casper-steehouwer-61b7931a9/) and [Murat Tunc](https://muratmtunc.github.io/).
+<a class="pub-link">INFORMS eBusiness Best Paper Award (Finalist), 2026</a>
 
 ---
 
@@ -51,10 +58,5 @@ With [Jiaqi Zhu](https://research.tilburguniversity.edu/en/persons/jiaqi-zhu) an
 
 **Seller Competition and Platform Coexistence: Evidence from German Real Estate Listings**
 With [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhaber/?lang=de), [Heiko Karle](https://sites.google.com/site/heikokarleecon/), and [Jannika Schad](https://www.wiwi.uni-siegen.de/fiwi/team/wisspers/schad.html.en?lang=en).
-
----
-
-**Safety as Strategy: Consumer Protection and Platform Leakage**
-With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/) and [Florian Pethig](https://www.florianpethig.com/).
 
 ---

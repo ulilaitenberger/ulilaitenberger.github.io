@@ -37,6 +37,11 @@ Press coverage: [Business Insider](https://www.businessinsider.de/rankings-bei-b
 
 ## 2. Other Peer-Reviewed Publications and Conference Proceedings
 
+**Safety as Strategy: Consumer Protection and Platform Leakage**
+Proceedings of 47th ICIS 2026, Lisbon. With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/), [Florian Pethig](https://www.florianpethig.com/), and [Nikolay Aleksandrov Tonev](https://www.linkedin.com/in/nikolay-aleksandrov-tonev/). Forthcoming.
+
+---
+
 **[Healthy Reviews! — Online Physician Ratings Reduce Healthcare Interruptions](https://aisel.aisnet.org/icis2022/is_health/is_health/20)**
 Proceedings of 43rd ICIS 2022. With [Michael Kummer](https://sites.google.com/site/kummermannheim/), [Cyrus Rich](https://www.isye.gatech.edu/users/cyrus-rich), [Daniel Hughes](https://econ.gatech.edu/people/person/danny-hughes), and [Turgay Ayer](https://www.isye.gatech.edu/users/turgay-ayer).
 
