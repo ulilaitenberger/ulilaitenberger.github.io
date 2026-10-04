@@ -55,6 +55,6 @@ With [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhab
 ---
 
 **Safety as Strategy: Consumer Protection and Platform Leakage**
-With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/), [Nikolay Aleksandrov Tonev](https://www.linkedin.com/in/nikolay-aleksandrov-tonev/), and [Florian Pethig](https://www.florianpethig.com/).
+With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/) and [Florian Pethig](https://www.florianpethig.com/).
 
 ---
