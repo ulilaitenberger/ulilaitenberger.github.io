@@ -8,6 +8,7 @@ title: "Talks"
 | Date | Event |
 |---|---|
 | Dec. 16–18 | [WISE](https://wiseconf2026.github.io/), Lisbon |
+| Nov. 26 | Academic Collaborative Center on Digital Health and Mental Wellbeing (internal) |
 | Sept. 17 | [École de Mines, CERNA](https://www.cerna.minesparis.psl.eu/Recherche/seminaires/Seminaires-et-ateliers-du-CERNA/), Paris (invited) |
 | June 22–23 | [SCECR](https://scecr.com/scecr-2026/), Tokyo |
 | June 18 | Tilburg ISOM Research Day (internal) |
