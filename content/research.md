@@ -22,7 +22,7 @@ With [Nicolas Fugger](https://sites.google.com/view/nicolasfugger/home). Last ve
 ---
 
 **Who Keeps Selling? Platform Fees and the Composition of Entrepreneurial Participation in an Online Labor Market**
-With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: September 2026. Under Review.
+With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: September 2026.
 
 ---
 
