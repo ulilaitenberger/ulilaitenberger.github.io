@@ -47,7 +47,7 @@ With [Matthias Hunold](https://www.wiwi.uni-siegen.de/amikro/team/lehrstuhlinhab
 
 **Does GenAI Endanger or Engender Equal Wages? Quasi-Experimental Evidence on Online Labor Markets and the Gender Pay Gap**
 With [Casper Steehouwer](https://www.linkedin.com/in/casper-steehouwer-61b7931a9/) and [Murat Tunc](https://muratmtunc.github.io/).
-<a class="pub-link">INFORMS eBusiness Best Paper Award (Finalist), 2026</a>
+<a class="pub-link">INFORMS eBusiness Section Best Paper Award (Runners-up), 2026</a>
 
 ---
 
