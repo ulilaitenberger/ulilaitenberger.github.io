@@ -12,8 +12,8 @@ title: "Teaching"
 | [Intervention-based Research Methods](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/cursus/?collegejaar=huidig&taal=en&cursuscode=230428-M-3) | PhD | since 2024 |
 | [Research in Information Systems (NLIS)](https://assets-us-01.kc-usercontent.com/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/173e7534-8682-4020-bc11-44c38cb5d121/Course%20Manual%20Research%20in%20Information%20Systems%202025-2026.pdf) | PhD | since 2026 |
 | [Data Science Skills for Supply Chain Management](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/cursus/?collegejaar=huidig&taal=en&cursuscode=325235-M-3) | Master | 2023–2025, bi-annual |
-| Enterprise Architecture and Business Strategy | Master | 2023 |
 | Information Management for International Business Administration | Bachelor | 2024 |
+| Enterprise Architecture and Business Strategy | Master | 2023 |
 | Model-based Research Methods | PhD | 2023 |
 
 ---
