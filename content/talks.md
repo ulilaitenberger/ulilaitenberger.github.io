@@ -3,6 +3,14 @@ title: "Talks"
 ---
 ---
 
+## 2027
+
+| Date | Event |
+|---|---|
+| Feb. 18 | [ZEW Mannheim, Digital Economy Research Unit](https://www.zew.de/en/research-at-zew/digital-economy) (invited) |
+
+---
+
 ## 2026
 
 | Date | Event |
