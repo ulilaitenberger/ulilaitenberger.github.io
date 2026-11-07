@@ -37,6 +37,11 @@ Press coverage: [Business Insider](https://www.businessinsider.de/rankings-bei-b
 
 ## 2. Other Peer-Reviewed Publications and Conference Proceedings
 
+**Does the Digital Divide Amplify the Health Divide? Evidence from Online Reviews**
+*Information Economics and Policy*. With [Michael Kummer](https://sites.google.com/site/kummermannheim/) and [Daniel Hughes](https://econ.gatech.edu/people/person/danny-hughes). Forthcoming.
+
+---
+
 **Safety as Strategy: Consumer Protection and Platform Leakage**
 Proceedings of 47th ICIS 2026, Lisbon. With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/), [Florian Pethig](https://www.florianpethig.com/), and [Nikolay Aleksandrov Tonev](https://www.linkedin.com/in/nikolay-aleksandrov-tonev/). Forthcoming.
 

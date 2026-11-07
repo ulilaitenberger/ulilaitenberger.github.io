@@ -26,11 +26,6 @@ With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herre
 
 ---
 
-**Does the Digital Divide Amplify the Health Divide? Evidence from Online Reviews**
-With [Michael Kummer](https://sites.google.com/site/kummermannheim/) and [Daniel Hughes](https://econ.gatech.edu/people/person/danny-hughes). Last Version: March 2026. Minor Revision at *Information Economics and Policy*.
-
----
-
 **Franchising Defrosts — The Impact of Retail Ownership on Product Availability**
 With [Yash Babar](https://business.wisc.edu/directory/profile/yash-babar/), [Xabier Barriola Salguiero](https://www.xabierbarriola.com/), and [Florian Pethig](https://www.florianpethig.com/). Last version: March 2026. Reject and Resubmit at *Management Science*.
 <a class="pub-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6504158">SSRN</a>
