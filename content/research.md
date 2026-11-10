@@ -6,12 +6,12 @@ title: "Research"
 ## Working Papers
 
 **The Impact of AI-Generated Product Line Extensions: Evidence from Machine-Narrated Audiobooks**
-With [Marco Kotschedoff](https://kotsche.github.io/). Last version: October 2026.
+With [Marco Kotschedoff](https://kotsche.github.io/). Last version: November 2026.
 
 ---
 
 **Safety as Strategy: Consumer Protection and Platform Leakage**
-With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/) and [Florian Pethig](https://www.florianpethig.com/). Last version: October 2026.
+With [Ehsan Sabzizadeh](https://www.ehsansabzizadeh.com/) and [Florian Pethig](https://www.florianpethig.com/). Last version: November 2026.
 <a class="pub-link" href="http://www.netinst.org/Pethig_26-07.pdf">NetInstitute Working Paper 26-7</a>
 
 ---
@@ -22,7 +22,7 @@ With [Nicolas Fugger](https://sites.google.com/view/nicolasfugger/home). Last ve
 ---
 
 **Who Keeps Selling? Platform Fees and the Composition of Entrepreneurial Participation in an Online Labor Market**
-With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: September 2026.
+With [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera/home), [Frank Müller-Langer](https://www.unibw.de/home-en/appointment-of-professors/prof-frank-mueller-langer), and [Mark Tremblay](https://sites.google.com/site/markjtremblay/). Last version: November 2026.
 
 ---
 
