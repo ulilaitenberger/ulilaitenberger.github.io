@@ -37,8 +37,9 @@ Press coverage: [Business Insider](https://www.businessinsider.de/rankings-bei-b
 
 ## 2. Other Peer-Reviewed Publications and Conference Proceedings
 
-**Does the Digital Divide Amplify the Health Divide? Evidence from Online Reviews**
-*Information Economics and Policy*. With [Michael Kummer](https://sites.google.com/site/kummermannheim/) and [Daniel Hughes](https://econ.gatech.edu/people/person/danny-hughes). Forthcoming.
+**[Does the Digital Divide Amplify the Health Divide? Evidence from Online Reviews](https://doi.org/10.1016/j.infoecopol.2026.101185)**
+*Information Economics and Policy*, 2026. With [Michael Kummer](https://sites.google.com/site/kummermannheim/) and [Daniel Hughes](https://econ.gatech.edu/people/person/danny-hughes).
+<a class="pub-link" href="https://authors.elsevier.com/sd/article/S0167-6245(26)00027-2">Elsevier Article</a>
 
 ---
 
